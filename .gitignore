@@ -74,4 +74,5 @@ Build/*/**
 */DerivedDataCache/*
 
 # Starter content
-*/Content/StarterContent/*
+*/Content/StarterContent/Textures
+*/Content/StarterContent/HDRI
